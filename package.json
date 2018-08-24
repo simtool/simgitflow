@@ -1,0 +1,19 @@
+{
+  "name": "@simtool/simgitflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/simgitflow.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.0",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.96.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
+}
